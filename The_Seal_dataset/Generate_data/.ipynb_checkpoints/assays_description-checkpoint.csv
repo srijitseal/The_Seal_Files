@@ -1,0 +1,58 @@
+assay_chembl_id,gene_symbol,assay_description,assay_type
+CHEMBL1613870,NFKB2,PUBCHEM_BIOASSAY: Name: High Throughput Screen to Identify Compounds that increase expression of NF-kB in Human Neuronal Cells - Dose Response. (Class of assay: confirmatory) [Related pubchem assays: 1239 ],F
+CHEMBL1741321,CYP2D6,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2d6 Compounds with AC50 equal or less than 10 uM are considered active,F
+CHEMBL1741322,CYP1A2,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp1a2 Compounds with AC50 equal or less than 10 uM are considered active,F
+CHEMBL1741323,CYP2C19,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2c19 Compounds with AC50 equal or less than 10 uM are considered active,F
+CHEMBL1741324,CYP3A4,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp3a4 Compounds with AC50 equal or less than 10 uM are considered active,F
+CHEMBL1741325,CYP2C9,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2c9 Compounds with AC50 equal or less than 10 uM are considered active,F
+CHEMBL1909087,ADRA1D,DRUGMATRIX: Alpha-1D adrenergic receptor radioligand binding (ligand: prazosin),B
+CHEMBL1909088,ADRA2A,DRUGMATRIX: Alpha-2A adrenergic receptor radioligand binding (ligand: MK-912),B
+CHEMBL1909089,ADRA2B,DRUGMATRIX: Alpha-2B adrenergic receptor radioligand binding (ligand: Rauwolscine),B
+CHEMBL1909090,ADRA2C,DRUGMATRIX: Adrenergic Alpha-2C radioligand binding (ligand: [3H] MK-912),B
+CHEMBL1909091,ADRB1,DRUGMATRIX: Adrenergic beta1 radioligand binding (ligand: [125I] Cyanopindolol),B
+CHEMBL1909092,ADRB2,DRUGMATRIX: Adrenergic beta2 radioligand binding (ligand: [3H] CGP-12177),B
+CHEMBL1909104,HTR2B,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2B radioligand binding (ligand: [3H] Lysergic acid diethylamide),B
+CHEMBL1909105,HTR2C,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2C radioligand binding (ligand: [3H] Mesulergine),B
+CHEMBL1909108,HTR6,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT6 radioligand binding (ligand: [3H] Lysergic acid diethylamide),B
+CHEMBL1909109,SLC6A4,"DRUGMATRIX: Transporter, Serotonin (5-Hydroxytryptamine) (SERT) radioligand binding (ligand: [3H] Paroxetine)",B
+CHEMBL1909110,SIGMAR1,DRUGMATRIX: Sigma1 radioligand binding (ligand: [3H] Haloperidol),B
+CHEMBL1909130,PTGS1,DRUGMATRIX: Cyclooxygenase COX-1 enzyme inhibition (substrate: Arachidonic acid),B
+CHEMBL1909140,DRD2,DRUGMATRIX: Dopamine D2L radioligand binding (ligand: [3H] Spiperone),B
+CHEMBL1909141,DRD3,DRUGMATRIX: Dopamine D3 radioligand binding (ligand: [3H] Spiperone),B
+CHEMBL1909150,NR3C1,DRUGMATRIX: Glucocorticoid radioligand binding (ligand: [3H] Dexamethasone),B
+CHEMBL1909156,HRH1,"DRUGMATRIX: Histamine H1, Central radioligand binding (ligand: [3H] Pyrilamine)",B
+CHEMBL1909170,CHRM1,DRUGMATRIX: Muscarinic M1 radioligand binding (ligand: [3H] N-Methylscopolamine),B
+CHEMBL1909172,CHRM3,DRUGMATRIX: Muscarinic M3 radioligand binding (ligand: [3H] N-Methylscopolamine),B
+CHEMBL1909173,CHRM4,DRUGMATRIX: Muscarinic M4 radioligand binding (ligand: [3H] N-Methylscopolamine),B
+CHEMBL1909174,CHRM5,DRUGMATRIX: Muscarinic M5 radioligand binding (ligand: [3H] N-Methylscopolamine),B
+CHEMBL1909211,HTR2A,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2A radioligand binding (ligand: [3H] Ketanserin),B
+CHEMBL5291729,ADRA1A,Agonist activity at human ADRA1A in an in vitro cell-based assay (NIBR assay) measured by fluorescent imaging plate reader,F
+CHEMBL5291731,ADRA1A,Antagonist activity at human ADRA1A in an in vitro cell-based assay measured by fluorescence spectroscopy,F
+CHEMBL5291732,ADRA1A,Binding affinity towards human ADRA1A in an in vitro assay with cellular components (NIBR assay) measured by scintillation proximity assay,B
+CHEMBL5291736,ADRA2A,Binding affinity towards human ADRA2A in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291737,ADRA2B,Binding affinity towards human ADRA2B in an in vitro assay with cellular components measured by scintillation proximity assay,B
+CHEMBL5291738,ADRA2C,Compound was evaluated for inhibition of human ADRA2C in an in vitro assay with cellular components measured by membrane filtration,F
+CHEMBL5291742,ADRB2,Binding affinity towards human ADRB2 in an in vitro assay with cellular components measured by radioactivity method,B
+CHEMBL5291749,AR,Binding affinity towards human AR in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291761,CHRM1,Antagonist activity human CHRM1 in an in vitro cell-based assay measured by fluorescence spectroscopy,F
+CHEMBL5291763,CHRM1,Compound was evaluated for inhibition of human CHRM1 in an in vitro assay with cellular components measured by scintillation proximity assay,F
+CHEMBL5291766,CHRM2,Binding affinity towards human CHRM2 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291767,CHRM3,Binding affinity towards human CHRM3 in an in vitro assay with cellular components measured by scintillation proximity assay,B
+CHEMBL5291779,DRD1,Binding affinity towards human DRD1 in an in vitro assay with cellular components (NIBR assay) measured by scintillation counting,B
+CHEMBL5291781,DRD2,"Binding affinity towards human DRD2 in an in vitro assay with cellular components measured by membrane filtration, scintillation proximity assay",B
+CHEMBL5291782,DRD3,Binding affinity towards human DRD3 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291809,HRH1,Binding affinity towards human HRH1 in an in vitro assay measured by filtration,B
+CHEMBL5291811,HRH2,Binding affinity towards human HRH2 in an in vitro assay with cellular components measured by membrane filtration,B
+CHEMBL5291815,HTR1A,Binding affinity towards human HTR1A in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291818,HTR2A,Binding affinity towards human HTR2A in an in vitro assay with cellular components measured by membrane filtration,B
+CHEMBL5291822,HTR2B,Binding affinity towards human HTR2B in an in vitro assay with cellular components measured by membrane filtration,B
+CHEMBL5291823,HTR2C,Binding affinity towards human HTR2C in an in vitro assay with cellular components measured by radioactivity method,B
+CHEMBL5291828,KCNH2,"Compound was evaluated for inhibition of human KCNH2 in an in vitro assay with cellular components measured by membrane filtration, radioactivity method",F
+CHEMBL5291850,NR3C1,"Binding affinity towards human NR3C1 in an in vitro cell free assay measured by filtration, radioactivity method",B
+CHEMBL5291863,PGR,Binding affinity towards human PGR in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291882,SLC6A3,Binding affinity towards human SLC6A3 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291891,SLC6A2,Binding affinity towards human SLC6A2 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291892,SLC6A4,Binding affinity towards human SLC6A4 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291899,DRD3,Binding affinity towards human DRD3 in an in vitro assay with cellular components measured by scintillation counting,B
+CHEMBL5291901,ADRA1A,Antagonist activity at human ADRA1A in an in vitro cell-based assay measured by fluorescence spectroscopy,F
+CHEMBL5291911,ADRA1A,Binding affinity towards human ADRA1A in an in vitro assay with cellular components (NIBR assay) measured by scintillation proximity assay,B

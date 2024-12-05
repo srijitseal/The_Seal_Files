@@ -108,6 +108,7 @@ The_Moshkov_Files/PUMA/predictions/chemical_cv1/predictions/.ipynb_checkpoints/p
 The_Moshkov_Files/PUMA/predictions/chemical_cv4_st/predictions/predictions_cp_es_op_st.csv
 The_Hofmarcher_Files/CP_count_Hofmarcher.csv
 The_Hofmarcher_Files/data/cellpainting-labelled-mols-index.csv
+The_Seal_dataset/CP_all_Seal.csv
 The_Sanchez-Fernandez_Files/CP_count_Sanchez.csv
 The_Sanchez-Fernandez_Files/data/embeddings/cellpainting-labelled-mols-features.pt
 The_Sanchez-Fernandez_Files/data/embeddings/cellpainting-labelled-mols-index.csv
