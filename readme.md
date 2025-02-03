@@ -29,25 +29,6 @@ To run the analyses, ensure you have the following dependencies installed:
 pip install numpy pandas scikit-learn matplotlib seaborn scipy jupyterlab
 ```
 
-## Usage
-### Running Baseline Cell Count Models
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/srijitseal/The_Seal_Files.git
-   cd The_Seal_Files
-   ```
-2. Navigate to the relevant dataset directory and run the baseline model script:
-   ```bash
-   python The_Cell_Count_Files/baseline_model.py
-   ```
-
-### Reproducing Published Results
-Each dataset directory contains Jupyter notebooks with analysis scripts. To run these:
-```bash
-jupyter lab
-```
-Open the relevant notebook and execute the cells step-by-step.
-
 ## Recommendations for the Community
 1. **Ensure benchmarks do not over-represent cytotoxicity-related assays** to avoid misleading performance evaluations.
 2. **Use baseline cell count models** as a reference point for assessing the value of more complex phenotypic profiles.
@@ -69,7 +50,7 @@ If you use this repository in your research, please cite:
 ```
 Seal S., Dee W., Shah A., Zhang A., Titterton K., Cabrera Á. A., Boiko D., Beatson A., Puigvert J. C., Singh S., Spjuth O., Bender A., Carpenter A. E.
 "Small Molecule Bioactivity Benchmarks are Often Well-Predicted by Counting Cells"
-Preprint, 2025.
+Upcoming Preprint, 2025.
 ```
 
 ## Acknowledgments
