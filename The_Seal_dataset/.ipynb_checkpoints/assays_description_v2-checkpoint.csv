@@ -1,0 +1,24 @@
+,assay_chembl_id,gene_symbol,assay_description,assay_short_desc,assay_type,cell_line
+0,CHEMBL1741321,CYP2D6,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2d6 Compounds with AC50 equal or less than 10 uM are considered active,Cytochrome panel,F,in vitro
+1,CHEMBL1741322,CYP1A2,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp1a2 Compounds with AC50 equal or less than 10 uM are considered active,Cytochrome panel,F,in vitro
+2,CHEMBL1741323,CYP2C19,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2c19 Compounds with AC50 equal or less than 10 uM are considered active,Cytochrome panel,F,in vitro
+3,CHEMBL1741324,CYP3A4,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp3a4 Compounds with AC50 equal or less than 10 uM are considered active,Cytochrome panel,F,in vitro
+4,CHEMBL1741325,CYP2C9,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2c9 Compounds with AC50 equal or less than 10 uM are considered active,Cytochrome panel,F,in vitro
+5,CHEMBL1909087,ADRA1D,DRUGMATRIX: Alpha-1D adrenergic receptor radioligand binding (ligand: prazosin),DrugMatrix in vitro pharmacology data,B,HEK293
+6,CHEMBL1909089,ADRA2B,DRUGMATRIX: Alpha-2B adrenergic receptor radioligand binding (ligand: Rauwolscine),DrugMatrix in vitro pharmacology data,B,CHO-K1
+7,CHEMBL1909104,HTR2B,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2B radioligand binding (ligand: [3H] Lysergic acid diethylamide),DrugMatrix in vitro pharmacology data,B,CHO-K1
+8,CHEMBL1909105,HTR2C,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2C radioligand binding (ligand: [3H] Mesulergine),DrugMatrix in vitro pharmacology data,B,CHO-K1
+9,CHEMBL1909141,DRD3,DRUGMATRIX: Dopamine D3 radioligand binding (ligand: [3H] Spiperone),DrugMatrix in vitro pharmacology data,B,CHO
+10,CHEMBL1909156,HRH1,"DRUGMATRIX: Histamine H1, Central radioligand binding (ligand: [3H] Pyrilamine)",DrugMatrix in vitro pharmacology data,B,CHO-K1
+11,CHEMBL1909211,HTR2A,DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2A radioligand binding (ligand: [3H] Ketanserin),DrugMatrix in vitro pharmacology data,B,CHO-K1
+12,CHEMBL5291731,ADRA1A,Antagonist activity at human ADRA1A in an in vitro cell-based assay measured by fluorescence spectroscopy,Antagonist activity,F,in vitro
+13,CHEMBL5291732,ADRA1A,Binding affinity towards human ADRA1A in an in vitro assay with cellular components (NIBR assay) measured by scintillation proximity assay,Binding affinity,B,in vitro
+14,CHEMBL5291781,DRD2,"Binding affinity towards human DRD2 in an in vitro assay with cellular components measured by membrane filtration, scintillation proximity assay",Binding affinity,B,in vitro
+15,CHEMBL5291782,DRD3,Binding affinity towards human DRD3 in an in vitro assay with cellular components measured by scintillation counting,Binding affinity,B,in vitro
+16,CHEMBL5291809,HRH1,Binding affinity towards human HRH1 in an in vitro assay measured by filtration,Binding affinity,B,in vitro
+17,CHEMBL5291815,HTR1A,Binding affinity towards human HTR1A in an in vitro assay with cellular components measured by scintillation counting,Binding affinity,B,in vitro
+18,CHEMBL5291818,HTR2A,Binding affinity towards human HTR2A in an in vitro assay with cellular components measured by membrane filtration,Binding affinity,B,in vitro
+19,CHEMBL5291822,HTR2B,Binding affinity towards human HTR2B in an in vitro assay with cellular components measured by membrane filtration,Binding affinity,B,in vitro
+20,CHEMBL5291850,NR3C1,"Binding affinity towards human NR3C1 in an in vitro cell free assay measured by filtration, radioactivity method",Binding affinity,B,in vitro
+21,CHEMBL5291892,SLC6A4,Binding affinity towards human SLC6A4 in an in vitro assay with cellular components measured by scintillation counting,Binding affinity,B,in vitro
+22,CHEMBL5291899,DRD3,Binding affinity towards human DRD3 in an in vitro assay with cellular components measured by scintillation counting,Binding affinity,B,in vitro
