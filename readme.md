@@ -1,7 +1,7 @@
 # Small Molecule Bioactivity Benchmarks: Cell Count Baselines
 
 ## Overview
-This repository contains code and datasets for evaluating small molecule bioactivity benchmarks using baseline models based on cell count features. The study investigates the predictive power of simple cell count features compared to high-dimensional Cell Painting profiles and gene expression data. It provides recommendations for best practices in machine learning applications for phenotypic profiling.
+This repository contains code and datasets for evaluating small molecule bioactivity benchmarks using baseline models based on cell count features. The study investigates the predictive power of simple cell count features compared to high-dimensional Cell Painting profiles and gene expression data. It provides recommendations for best practices in machine learning applications for phenotypic profiling. Data is released via https://doi.org/10.5281/zenodo.14838603
 
 ## Key Findings
 - Many widely used bioactivity benchmarks are biased towards cytotoxicity and cell proliferation assays, which can be well-predicted using simple cell count features.
@@ -37,7 +37,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn scipy jupyterlab
 5. **Incorporate concentration-response data** to improve signal detection in phenotypic assays.
 
 ## Data Availability
-- Public datasets used in this study include:
+- Public datasets used in this study include: https://doi.org/10.5281/zenodo.14838603
   - Bray et al. (Cell Painting dataset)
   - Moshkov et al. (bioactivity benchmarks)
   - Hofmarcher et al. (target-based activity datasets)
