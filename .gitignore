@@ -220,6 +220,7 @@ The_Seal_dataset/CP_all_Seal.csv
 The_Sanchez-Fernandez_Files/CP_count_Sanchez.csv
 The_Sanchez-Fernandez_Files/data/embeddings/cellpainting-labelled-mols-features.pt
 The_Sanchez-Fernandez_Files/data/embeddings/cellpainting-labelled-mols-index.csv
+Cell_Painting_no_cellcount_confounder_dataset/Bray_etal_Cell_Painting_no_cellcount_confounder_dataset.parquet
 The_Ha_Files/FSL_CP-20240825T032702Z-001.zip
 The_Ha_Files/data/AID_624202_datatable_all.csv
 The_Ha_Files/data/.ipynb_checkpoints/AID_624202_datatable_all-checkpoint.csv
